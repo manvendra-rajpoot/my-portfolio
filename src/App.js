@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="app">
-      How u doin?
+      <h1>How u doin' ?</h1>
     </div>
   );
 }
