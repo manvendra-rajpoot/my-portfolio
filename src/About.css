@@ -23,3 +23,8 @@
     justify-content: left;
     width: 48px;
 }
+.socialHandles>a>img:hover{
+    transition: transform 0.2s ease-in-out;
+    transform: scale(1.1) !important;
+
+}
