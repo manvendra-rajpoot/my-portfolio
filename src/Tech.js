@@ -23,7 +23,7 @@ import oop from './icons/oop.png';
 function Tech() {
     return (
         <div className='tech'>
-            <h1>Tech I am familiar with</h1>
+            <h1>Tech Stack 👨‍💻 </h1>
             <div className='tech__list'>
                 <div className='icon'>
                     <img src={c} alt='c' />

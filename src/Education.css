@@ -10,7 +10,7 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .degree{
-    padding-top: 10px;
+    margin-top: 10px;
 }
 .degree>.card__body{
     width: 18rem;

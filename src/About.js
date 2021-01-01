@@ -4,15 +4,13 @@ import './About.css';
 function About() {
     return (
         <div className='about'>
-            <h1>About Me </h1>
+            <h1>About Me 👋</h1>
             <p className='greet'>Hello!</p>
             <p className='description'>My name is Manvendra, a junior from India 🇮🇳. <br /><br />
                 I am open-source enthusiast, a learner, passionate about Web Development and
                 Machine Learning & enjoy solving competitive programming questions.
                 I am looking to collaborate in Open Source and make new friends.<br /><br />
-                {/* 💬 Ask me about ...<br /> */}
-                {/* 📫 How to reach me: ...<br /> */}
-                {/* ⚡ Fun fact: ...<br /><br /> */}
+                
             </p>
             <div className='socialHandles'>
                 <a href="mailto:manvendra141986@gmail.com">

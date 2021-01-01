@@ -5,7 +5,7 @@ import { Card } from 'react-bootstrap';
 function Education() {
     return (
         <div className='education'>
-            <h1>Education</h1>
+            <h1>Education 👨‍🎓</h1>
             <div className='degree'>
             <Card >
             <Card.Body className="card__body">
