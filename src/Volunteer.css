@@ -1,0 +1,30 @@
+.volunteer{
+    margin: 0 50px 0 50px;
+    padding: 30px 0 30px 0;
+}
+.volunteer>h1{
+    color: rgb(48, 46, 77);
+    text-shadow: 5px 5px  #e2e2df;
+    font-size: 55px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.community{
+    margin-top: 10px;
+}
+.community>.card__body{
+    display: flex;
+    flex: 0.8;
+}
+.card__title{
+    color: #252521;
+    font-family: sans-serif;
+}
+.card__subtitle{
+    color: #525257;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+.card__text{
+    font-family: monospace;
+}
