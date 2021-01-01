@@ -29,9 +29,9 @@
 .name {
   display: flex;
   flex: 1;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
-  padding: 20px
+  padding: 30px;
 }
 .name > h1 {
   padding: 20px;
@@ -47,7 +47,7 @@
   height: 280px;
   padding: 20px;
   box-shadow: 2px 2px 3px #7a7a7a;
-  /* box-shadow: ; */
+  margin-right: 100px;
 }
 @media (max-width: 900px) {
   .name {
