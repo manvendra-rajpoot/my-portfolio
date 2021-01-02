@@ -20,7 +20,7 @@ function App() {
 
       <Navbar className="justify-content-center color-nav" varient='light' >
         <Navbar.Brand className='nav-brand'
-          href="https://drive.google.com/file/d/1n-h7bRcF-scAL578ZoQ7qVJuNaGNneDH/view?usp=sharing"
+          href="https://drive.google.com/file/d/1ZUcMhff-JGl8cOvuWENulxdRfmaQ5h3E/view?usp=sharing"
           >
             Resume
         </Navbar.Brand>
