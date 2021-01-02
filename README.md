@@ -2,5 +2,5 @@
 
 This is React JS based personal Resume website.
 
-![resume](../screenshots/resume.png)
+![resume](./screenshots/resume.png)
 
