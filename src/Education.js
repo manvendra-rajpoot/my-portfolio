@@ -12,7 +12,7 @@ function Education() {
             <Card.Title className='card__title'>Bachelor's Degree in Computer Science And Technology</Card.Title>
             <Card.Subtitle className="card__subtitle">Indian Institute of Engineering Science And Technology, Shibpur </Card.Subtitle>
             <Card.Text className="card__text">
-                2018 - 2020
+                2018 - 2022
             </Card.Text>
             </Card.Body>
             </Card>
