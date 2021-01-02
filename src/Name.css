@@ -1,0 +1,24 @@
+.name {
+    margin: 0 50px 0 50px;
+    padding: 30px 0 30px 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.name > h1 {
+    font-size: 80px;
+    font-family: monospace;
+    color: rgb(49, 49, 49);
+    text-shadow: 2px 2px 4px #b8b4b4;
+}
+
+.name > img {
+    border-radius: 200px;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 2px 2px 3px #7a7a7a;
+} 
