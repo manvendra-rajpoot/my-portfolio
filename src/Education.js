@@ -17,17 +17,7 @@ function Education() {
             </Card.Body>
             </Card>
             </div>
-            <div className='degree'>
-            <Card >
-            <Card.Body className="card__body">
-            <Card.Title className='card__title'>Higher Secondray / Intermediate (+2) </Card.Title>
-            <Card.Subtitle className="card__subtitle">Sri Chaitanya Vidya Niketan, Visakhapatnam </Card.Subtitle>
-            <Card.Text className="card__text">
-                2017
-            </Card.Text>
-            </Card.Body>
-            </Card>
-            </div>
+            
             
         </div>
     )

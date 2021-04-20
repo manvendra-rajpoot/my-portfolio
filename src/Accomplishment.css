@@ -5,7 +5,7 @@
 .accomplishment>h1{
     color: rgb(48, 46, 77);
     text-shadow: 5px 5px  #e2e2df;
-    font-size: 55px;
+    font-size: min(max(32px, 4vw), 55px);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .accom{

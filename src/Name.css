@@ -8,7 +8,7 @@
 }
 
 .name > h1 {
-    font-size: 80px;
+    font-size: min(max(55px, 7vw), 90px);
     font-family: monospace;
     color: rgb(49, 49, 49);
     text-shadow: 2px 2px 4px #b8b4b4;

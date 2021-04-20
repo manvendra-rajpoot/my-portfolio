@@ -9,6 +9,7 @@ import html from './icons/html.png';
 import css from './icons/css.png';
 import node from './icons/node.png';
 import react from './icons/react.png';
+import express from './icons/express.png';
 import mysql from './icons/mysql.png';
 import mongodb from './icons/mongodb.png';
 import numpy from './icons/numpy.png';
@@ -27,71 +28,75 @@ function Tech() {
             <div className='tech__list'>
                 <div className='icon'>
                     <img src={c} alt='c' />
-                    <h5>C</h5>
+                    <h6>C</h6>
                 </div>
                 <div className='icon'>
                     <img src={cpp} alt='cpp' />
-                    <h5>C++</h5>
+                    <h6>C++</h6>
                 </div>
                 <div className='icon'>
                     <img src={python} alt='python' />
-                    <h5>Python</h5>
+                    <h6>Python</h6>
                 </div>
                 <div className='icon'>
                     <img src={java} alt='java' />
-                    <h5>Java</h5>
+                    <h6>Java</h6>
                 </div>
                 <div className='icon'>
                     <img src={js} alt='js' />
-                    <h5>JavaScript</h5>
+                    <h6>JavaScript</h6>
                 </div>
                 <div className='icon'>
                     <img src={html} alt='html' />
-                    <h5>HTML</h5>
+                    <h6>HTML</h6>
                 </div>
                 <div className='icon'>
                     <img src={css} alt='css' />
-                    <h5>CSS</h5>
+                    <h6>CSS</h6>
                 </div>
                 <div className='icon'>
                     <img src={react} alt='react' />
-                    <h5>React</h5>
+                    <h6>ReactJS</h6>
                 </div>
                 <div className='icon'>
                     <img src={node} alt='node' />
-                    <h5>Node</h5>
+                    <h6>NodeJS</h6>
                 </div>
                 <div className='icon'>
-                    <img src={numpy} alt='numpy' />
-                    <h5>Numpy</h5>
-                </div>
-                <div className='icon'>
-                    <img src={matplotlib} alt='matplotlib' />
-                    <h5>Matplotlib</h5>
-                </div>
-                <div className='icon'>
-                    <img src={seaborn} alt='seaborn' />
-                    <h5>Seaborn</h5>
-                </div>
-                <div className='icon'>
-                    <img src={pandas} alt='pandas' />
-                    <h5>Pandas</h5>
+                    <img src={express} alt='express' />
+                    <h6>ExpressJS</h6>
                 </div>
                 <div className='icon'>
                     <img src={mysql} alt='mysql' />
-                    <h5>MySQL</h5>
+                    <h6>MySQL</h6>
                 </div>
                 <div className='icon'>
                     <img src={mongodb} alt='mongodb' />
-                    <h5>MongoDB</h5>
+                    <h6>MongoDB</h6>
+                </div>
+                {/* <div className='icon'>
+                    <img src={numpy} alt='numpy' />
+                    <h6>Numpy</h6>
                 </div>
                 <div className='icon'>
+                    <img src={matplotlib} alt='matplotlib' />
+                    <h6>Matplotlib</h6>
+                </div>
+                <div className='icon'>
+                    <img src={seaborn} alt='seaborn' />
+                    <h6>Seaborn</h6>
+                </div> 
+                <div className='icon'>
+                    <img src={pandas} alt='pandas' />
+                    <h6>Pandas</h6>
+                </div> */}
+                <div className='icon'>
                     <img src={dsa} alt='dsa' />
-                    <h5>Data Structures & Algorithms</h5>
+                    <h6>Data Structures & Algorithms</h6>
                 </div>
                 <div className='icon'>
                     <img src={oop} alt='oop' />
-                    <h5>Object Oriented Programming</h5>
+                    <h6>Object Oriented Programming</h6>
                 </div>
                 
             </div>

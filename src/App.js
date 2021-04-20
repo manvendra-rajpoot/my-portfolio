@@ -20,7 +20,7 @@ function App() {
 
       <Navbar className="justify-content-center color-nav" varient='light' >
         <Navbar.Brand className='nav-brand'
-          href="https://drive.google.com/file/d/1ZUcMhff-JGl8cOvuWENulxdRfmaQ5h3E/view?usp=sharing"
+          href="https://drive.google.com/file/d/1pgUP_6vXTNheoN7vavQ3DJGytzKIhl1y/view?usp=sharing"
           >
             Resume
         </Navbar.Brand>
@@ -37,7 +37,7 @@ function App() {
       <Blog />
       <Connect />
 
-      <h4 className='endline'>May the sources be with you. Thank you! 😃</h4>
+      <h5 className='endline'>May the sources be with you. Thank you! 😃</h5>
 
     </div>
   );

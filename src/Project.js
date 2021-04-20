@@ -6,21 +6,7 @@ function Project() {
     return (
         <div className='projectList'>
             <h1>Projects 🚀</h1>
-            <div className='project'>
-            <Card >
-            <Card.Body className="card__body">
-            <Card.Title className='card__title'><a href='https://daynight-chat.web.app/'>ChatApp1.0</a></Card.Title>
-            <Card.Text className="card__text">
-                December 2020<br /><br />
-                <ul>
-                    <li>It is kind of whatsapp-clone and user have to use google account to login.</li>
-                    <li>It uses Firestore Realtime database for messages, React Router, React Context API, Google Authentication, Material UI
-                        and finally hosted at Firebase.</li>
-                </ul>
-            </Card.Text>
-            </Card.Body>
-            </Card>
-            </div>
+            
             <div className='project'>
             <Card >
             <Card.Body className="card__body">
@@ -32,6 +18,21 @@ function Project() {
                         worldwide in general.</li>
                         <li>It is built using React, Material UI and deployed at Firebase.</li>
                     <li>Some other main dependencies like chart.js for bargraph, react-leaflet for map are also used.</li>
+                </ul>
+            </Card.Text>
+            </Card.Body>
+            </Card>
+            </div>
+            <div className='project'>
+            <Card >
+            <Card.Body className="card__body">
+            <Card.Title className='card__title'><a href='https://daynight-chat.web.app/'>ChatApp1.0</a></Card.Title>
+            <Card.Text className="card__text">
+                December 2020<br /><br />
+                <ul>
+                    <li>It is kind of whatsapp-clone and user have to use google account to login.</li>
+                    <li>It uses Firestore Realtime database for messages, React Router, React Context API, Google Authentication, Material UI
+                        and finally hosted at Firebase.</li>
                 </ul>
             </Card.Text>
             </Card.Body>
